@@ -1,0 +1,2 @@
+{delete}
+{!announce {channel.id} {user} vs $1 ----- $1+}
