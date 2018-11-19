@@ -1,0 +1,2 @@
+{choose:has successfully killed $1+; has failed to kill $1+; brutally murdered $1+; dabbed on $1+; 360 noscoped $1+; shot $1+ with a machine gun; force subscribed $1+ to T-Series, and the trauma killed $1+; killed $1+ with a golden scar; killed $1+ with a katana; killed $1+ with his {user}'s face;pushed $1+ off the Shrimp Boat}
+{!announce {channel.id} {user} {choice}}
