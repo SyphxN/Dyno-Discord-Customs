@@ -1,0 +1,2 @@
+{choose:slapped $1+; slapped $1+ with a fish;slapped $1+ so hard that his head fell off;slapped $1+ like his parent do to him;slapped ..... ERROR MALFUNCTION... {user} slapped his mom;slapped $1+ with a binder;slapped $1+ with a car;has failed to slap $1+ and instead slapped himself;completly missed the slap at $1+ and hit his hand against thorny wall;slapped $1+ with his science project and got an A+ for creativity}
+{!announce {channel.id} {user} {choice}}
